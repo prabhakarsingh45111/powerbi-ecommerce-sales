@@ -66,11 +66,12 @@ The dashboard appears to be developed using a Business Intelligence tool (likely
 
 *   **Region Wise Revenue:** A map visualizing revenue distribution across different geographic regions (Asia, North America, Europe, Africa, Australia, South America).
 
-    ![Region Wise Revenue](images/region_wise_revenue.png)
+    ![Region Wise Revenue](https://github.com/user-attachments/assets/1fd29d15-de37-478c-b2c7-2de180dd2c06)
+
 
 *   **State Wise Transactions:** A treemap displaying transaction volume across different states. The size of each rectangle corresponds to the number of transactions.
 
-    ![State Wise Transactions](images/state_wise_transactions.png)
+    ![State Wise Transactions](https://github.com/user-attachments/assets/c457b657-5f4f-4e52-b0e3-b16df2b62326)
 
 ## Insights and Findings
 
