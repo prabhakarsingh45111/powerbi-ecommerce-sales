@@ -62,7 +62,7 @@ The dashboard appears to be developed using a Business Intelligence tool (likely
 
 *   **Product Brand Wise Detail:** A table showing sales data for various product brands, including total transactions, quantity sold, total revenue, and total profit. This allows for easy comparison of brand performance.
 
-    ![Product Brand Detail](images/product_brand_detail.png)
+    ![Product Brand Detail](https://github.com/user-attachments/assets/85e5667c-9709-49b8-881a-25a0f6de5bd6)
 
 *   **Region Wise Revenue:** A map visualizing revenue distribution across different geographic regions (Asia, North America, Europe, Africa, Australia, South America).
 
