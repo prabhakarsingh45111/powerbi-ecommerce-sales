@@ -49,7 +49,7 @@ The dashboard appears to be developed using a Business Intelligence tool (likely
     *   **Profit vs. Previous Month:** 71.68K (Goal: 67.87K (+5.61%))
     *   **Return vs. Previous Month:** 496 (Goal: 563 (+11.9%))
 
-    ![KPIs](images/kpis_reliance.png)
+    ![KPIs](https://github.com/user-attachments/assets/600f576f-4356-4be7-bd21-7e5412309d35)
 
 *   **Product Brand Wise Detail:** A table showing sales data for various product brands, including total transactions, quantity sold, total revenue, and total profit. This allows for easy comparison of brand performance.
 
