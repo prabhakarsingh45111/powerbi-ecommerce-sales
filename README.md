@@ -13,7 +13,7 @@ This README documents the Reliance SMART Sales Dashboard, providing insights int
 
 
 ## Data Source
-*   [Link to Data (data.csv)](Calendar.csv)
+*   [Link to Data (Calendar.csv)](Calendar.csv)
 *   [Link to Data (data.csv)](Customers.csv)
 *   [Link to Data (data.csv)](Products.csv)
 *   [Link to Data (data.csv)](Regions.csv)
