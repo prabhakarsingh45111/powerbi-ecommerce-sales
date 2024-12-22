@@ -5,13 +5,12 @@ This README documents the Reliance SMART Sales Dashboard, providing insights int
 ## Table of Contents
 
 *   [Problem Statement](#problem-statement)
-*   [Data Sources](#data-sources)
 *   [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 *   [Dashboard Development](#dashboard-development)
 *   [Key Metrics and Visualizations](#key-metrics-and-visualizations)
 *   [Insights and Findings](#insights-and-findings)
 *   [Tools Used](#tools-used)
-*   [Future Enhancements](#future-enhancements)
+
 
 ## Problem Statement
 
@@ -24,14 +23,6 @@ Reliance SMART, like any large retail operation, generates substantial sales dat
 *   Identifying areas for improvement and optimizing sales strategies.
 
 This dashboard aims to provide a clear and concise overview of key sales metrics to facilitate data-driven decision-making.
-
-## Data Sources
-
-(This section requires information about the actual data sources. Based on the dashboard, we can infer some possibilities:)
-
-*   **Point of Sale (POS) System:** This is the primary source of transactional data, including product sales, quantities, and revenue.
-*   **Inventory Management System:** This system tracks product inventory levels and may provide data on stockouts and popular items.
-*   **Geographic Data:** Data containing information about regions and states.
 
 ## Data Cleaning and Preprocessing
 
@@ -87,18 +78,5 @@ Based on the dashboard:
 *   **Data Visualization:** (Likely Power BI, Tableau, or similar)
 *   (Add other tools used for data extraction, cleaning, etc.)
 
-## Future Enhancements
-
-*   **More Detailed Regional Analysis:** Adding drill-down capabilities to the regional map for more granular insights.
-*   **Trend Analysis:** Incorporating time-series charts to visualize sales trends over time.
-*   **Customer Segmentation:** Analyzing sales data by customer segments to identify key customer groups.
-*   **Inventory Integration:** Integrating inventory data to provide insights into stock levels and potential stockouts.
-*   **Predictive Analytics:** Forecasting future sales based on historical data.
-
-**Crucially:**
-
-1.  **Replace placeholder information:** Fill in details about data sources, cleaning steps, and specific tools.
-2.  **Add actual images:** Replace the placeholder image references (e.g., `images/kpis_reliance.png`) with actual screenshots. Create an `images` folder and place the images there.
-3.  **Provide more specific insights:** Analyze the data in more detail and provide actionable insights. For example, which brands are growing fastest? Which regions are underperforming?
-
-By completing these steps, you'll create a much more informative and valuable README.
+## Snapshot Of Power Bi Dashboard
+![image](https://github.com/user-attachments/assets/b6fd169b-2880-47bd-b29b-bbd79a319b21)
