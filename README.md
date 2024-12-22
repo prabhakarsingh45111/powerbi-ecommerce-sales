@@ -11,7 +11,15 @@ This README documents the Reliance SMART Sales Dashboard, providing insights int
 *   [Insights and Findings](#insights-and-findings)
 *   [Tools Used](#tools-used)
 
-[Link to Data (data.csv)](Calendar.csv)
+
+## Data Source
+*   [Link to Data (data.csv)](Calendar.csv)
+*   [Link to Data (data.csv)](Customers.csv)
+*   [Link to Data (data.csv)](Products.csv)
+*   [Link to Data (data.csv)](Regions.csv)
+*   [Link to Data (data.csv)](Regions-1997-1998.csv)
+*   [Link to Data (data.csv)](Stores.csv)
+
 ## Problem Statement
 
 Reliance SMART, like any large retail operation, generates substantial sales data. Effectively analyzing this data is crucial for:
